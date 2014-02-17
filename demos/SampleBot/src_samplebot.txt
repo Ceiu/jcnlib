@@ -1,0 +1,9 @@
+E:\client\chatnet\jcnlib\demos\SampleBot\src\BotActions.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\BotCore.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\exe.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\AboutCommand.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\HelpCommand.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\InfoCommand.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\OwnerCommand.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\ShutdownCommand.java
+E:\client\chatnet\jcnlib\demos\SampleBot\src\commands\SimpleCommand.java
